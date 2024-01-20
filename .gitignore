@@ -1,1 +1,2 @@
-.json
+# Remove all the files in the .vscode folder
+.vscode/*
